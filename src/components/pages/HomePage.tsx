@@ -144,7 +144,7 @@ export default function HomePage() {
                       className="relative w-full h-full rounded-lg overflow-hidden"
                     >
                        <Image 
-                        src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=1" 
+                        src="https://static.wixstatic.com/media/f4bd3c_5b8c8f5e624646de8cc501ec16bea54b~mv2.png?originWidth=1152&originHeight=640" 
                         alt="Detail texture"
                         className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                       />
@@ -156,7 +156,7 @@ export default function HomePage() {
                       className="relative w-full h-full rounded-lg overflow-hidden mt-8"
                     >
                        <Image 
-                        src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=2" 
+                        src="https://static.wixstatic.com/media/f4bd3c_7b5d6f85ecee4820bd966ed1bd072c4e~mv2.png?originWidth=1152&originHeight=640" 
                         alt="Detail texture"
                         className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                       />
@@ -173,7 +173,7 @@ export default function HomePage() {
               className="absolute inset-0 w-full h-[120%]"
             >
               <Image 
-                src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=3" 
+                src="https://static.wixstatic.com/media/f4bd3c_902e01a5a23c476bb6306c7ad10bdba7~mv2.png?originWidth=1152&originHeight=640" 
                 alt="Abstract organic form"
                 className="w-full h-full object-cover"
                 width={1200}
@@ -253,7 +253,7 @@ export default function HomePage() {
                 >
                   <div className="w-full md:w-1/2 aspect-[4/3] overflow-hidden rounded-sm">
                     <Image 
-                      src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=4" 
+                      src="https://static.wixstatic.com/media/f4bd3c_d1328f3c3e5c42cba1f7be62141cebdf~mv2.png?originWidth=576&originHeight=448" 
                       alt={item.title}
                       className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                     />
@@ -279,7 +279,7 @@ export default function HomePage() {
           className="absolute inset-0 w-full h-[120%] -top-[10%]"
         >
           <Image 
-            src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=5" 
+            src="https://static.wixstatic.com/media/f4bd3c_f3c9950d4ef34e338167a9995227800a~mv2.png?originWidth=1088&originHeight=640" 
             alt="Calm workspace atmosphere"
             className="w-full h-full object-cover"
           />
