@@ -37,7 +37,7 @@ A modern, full-featured Wix Astro template built with React, TypeScript, and Tai
 
 - Node.js (version 18 or higher)
 - npm or yarn package manager
-- Wix account and site
+
 
 ### Installation
 
@@ -56,7 +56,6 @@ A modern, full-featured Wix Astro template built with React, TypeScript, and Tai
    npm run dev
    ```
 
-The development server will start and you can view your site at `http://localhost:4321`.
 
 ## 📁 Project Structure
 
